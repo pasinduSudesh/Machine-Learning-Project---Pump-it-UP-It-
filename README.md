@@ -10,16 +10,16 @@ installer and funder fill Nans with 'Unknown' value
 
 2. Fill numerical null values from mean value and max frequent values acording to context
 
-population, latitude and longitude null values are filled with mean value
+population,  null values are filled with mean value
 public_meeting, construction_year and permit null values are filled with most frequent value
 
 ### Encoding the Categorical Data
 
 Use label encoding for categorical features
  
-### Normalization
+### Outlier ditection
 
-
+latitude and longitude had outlier values. Some values was outside the geographical location. those values are replaced with mean value.
 
 ## Feature Engineering
 
