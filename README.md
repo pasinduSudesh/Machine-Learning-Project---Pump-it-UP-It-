@@ -1,3 +1,5 @@
+https://github.com/pasinduSudesh/Machine-Learning-Project-Pump-it-Up
+
 # Pump-It-Up-Machine-Learning-Project
 
 ## Preprocessing
@@ -54,3 +56,10 @@ wpt_name is dropped, because it has more than 50% of unique values  and
 Also scheme_name and subvillage are dropped, it have large unique values
 num_private is dropped, because it has 98% of zeros
 Since recorded_by has only one unique value, it does not depend to output. So featue is dropped
+
+
+## Rank
+![Capture](https://user-images.githubusercontent.com/47638473/133761099-eb50bd80-77ed-45ec-b850-ee38e148fe00.PNG)
+
+## Submission
+![Capture2](https://user-images.githubusercontent.com/47638473/133761147-aa12c4c4-22b6-4fa4-b5f7-98ad149c9ac0.PNG)
